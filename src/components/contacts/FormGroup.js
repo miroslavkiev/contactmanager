@@ -36,7 +36,7 @@ FormGroup.propTypes = {
   placeholder: PropTypes.string.isRequired,
   type: PropTypes.string.isRequired,
   value: PropTypes.string.isRequired,
-  error: PropTypes.string.isRequired
+  error: PropTypes.string
 };
 
 FormGroup.defaultProps = {
